@@ -1,0 +1,15 @@
+{
+  "name": "leagueinformer",
+  "version": "1.0.0",
+  "description": "Informs the people in a discord server when someone is playing League of Legends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Austen Van Brogen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
